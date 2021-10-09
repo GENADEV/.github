@@ -12,7 +12,7 @@
 
 Are you interested in low-level development and do you speak German?
 
-Then join our [Discord Server](https://discord.gg/xrNejGxAUA) and contribute to our [community projects](https://github.com/GENADEV/.github/edit/master/profile/README.md#Our-community-projects-so-far-:star:)!
+Then join our [Discord Server](https://discord.gg/xrNejGxAUA) and contribute to our [community projects](https://github.com/GENADEV#our-community-projects-so-far-star)!
 
 ## Our community projects so far :star:
 
